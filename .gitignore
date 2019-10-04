@@ -1,0 +1,5 @@
+node_modules
+.watchmanconfig
+yarn-error.log
+.expo
+.expo-shared
